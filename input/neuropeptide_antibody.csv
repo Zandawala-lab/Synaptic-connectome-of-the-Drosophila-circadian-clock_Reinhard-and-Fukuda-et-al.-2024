@@ -1,0 +1,21 @@
+﻿cluster;peptide;n;reference
+LPN;AstA;3;https://doi.org/10.7554/eLife.40487.001
+LPN;AstC;3;https://doi.org/10.1016/j.cub.2018.11.005
+DN1p;AstC;4;https://doi.org/10.1016/j.cub.2018.11.005
+DN3;AstC;20;https://doi.org/10.1016/j.cub.2018.11.005
+DN1a;CCHa1;2;https://doi.org/10.3389/fphys.2018.01276
+LPN;DH31;3;https://doi.org/10.1002/cne.25294
+DN1p;DH31;5;http://dx.doi.org/10.1016/j.cub.2014.09.077
+DN1a;DH44;2;this study
+DN3;DH44;mind. 2;this study
+LNd;DH44;2;this study
+LNd;sNPF;2;https://doi.org/10.1002/cne.22099
+s-LNv;sNPF;4;https://doi.org/10.1002/cne.22099
+LNd;NPF;3-4;https://doi.org/10.1002/cne.22742
+l-LNv;NPF;1-3;https://doi.org/10.1002/cne.22742
+5th-LNv;NPF;1;https://doi.org/10.1002/cne.22742
+5th-LNv;ITP;1;https://doi.org/10.1002/cne.22099
+LNd;ITP;1;https://doi.org/10.1002/cne.22099
+s-LNv;PDF;4;https://doi.org/10.1073/pnas.92.2.612
+l-LNv;PDF;4;https://doi.org/10.1073/pnas.92.2.612
+DN2;AstC;2;this study

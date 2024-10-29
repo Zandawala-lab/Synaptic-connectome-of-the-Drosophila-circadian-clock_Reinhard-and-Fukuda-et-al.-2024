@@ -1,0 +1,21 @@
+﻿cluster;peptide;n;reference
+DN1p;AstA;3;this study
+LPN;AstA;3;this study
+DN1p;AstC;8;this study
+DN2;AstC;2;this study
+DN3;AstC;20;this study
+DN1a;CCHa1;2;this study
+DN1p;CNMa;6;this study, https://doi.org/10.7554/eLife.63056
+DN1p;DH31;6;this study, https://doi.org/10.1016/j.cub.2021.02.048
+s-LNv;DH31;4;this study
+DN1a;DH44;2;this study
+DN1p;DH44;4;this study
+DN3;DH44;6;this study
+LPN;DH44;3;this study
+LNd;DH44;3;this study
+DN1p;Proc;1;this study
+DN2;Proc;2;this study
+DN3;sNPF;many;this study
+LNd;sNPF;2;this study
+s-LNv;sNPF;4;this study
+LNd;Trissin;2;https://doi.org/10.7554/eLife.63056

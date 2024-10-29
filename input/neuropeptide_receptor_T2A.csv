@@ -1,0 +1,46 @@
+﻿cluster;receptor;ligand;n;reference
+DN3;AstC-R1;AstC;3;this study
+DN2;AstC-R1;AstC;1;this study
+LPN;AstC-R1;AstC;3;this study
+DN1a;AstC-R2-RB;AstC;2;this study
+DN2;AstC-R2-RB;AstC;1;this study
+DN3;AstC-R2-RB;AstC;2;this study
+LNd;AstC-R2-RB;AstC;5;this study
+l-LNv;AstC-R2-RB;AstC;4;this study
+s-LNv;AstC-R2-RB;AstC;4;this study
+DN1a;CCHa1R;CCHa1;1;this study
+DN1p;CCHa1R;CCHa1;4;this study
+LPN;CCHa1R;CCHa1;3;this study
+l-LNv;CCHa1R;CCHa1;2;this study, https://doi.org/10.3389/fphys.2018.01276
+s-LNv;CCHa1R;CCHa1;3;this study, https://doi.org/10.3389/fphys.2018.01276
+DN3;CNMaR;CNMa;3;this study
+l-LNv;DH31-R-RC;DH31;4;this study, 10.1073/pnas.2206066119
+DN3;NPFR-RA/C;NPF;3;this study
+LNd;NPFR-RA/C;NPF;4;this study
+l-LNv;NPFR-RA/C;NPF;4;this study
+s-LNv;NPFR-RA/C;NPF;4;this study
+LPN;NPFR-RB/D;NPF;2;this study
+l-LNv;NPFR-RB/D;NPF;3;this study
+DN1a;Pdfr;PDF;1/2;this study, https://doi.org/10.1002/cne.22311
+DN1p;Pdfr;PDF;9/6;this study, https://doi.org/10.1371/journal.pone.0018974
+DN2;Pdfr;PDF;2;this study
+DN3;Pdfr;PDF;5;this study
+LPN;Pdfr;PDF;2;this study
+LNd;Pdfr;PDF;5/3;this study, https://doi.org/10.1002/cne.22311
+l-LNv;Pdfr;PDF;4;this study, https://doi.org/10.1002/cne.22311
+5th-LNv;Pdfr;PDF;1;this study, https://doi.org/10.1002/cne.22311
+s-LNv;Pdfr;PDF;4;this study, https://doi.org/10.1002/cne.22311
+DN2;sNPFR;sNPF;2;this study, 10.1073/pnas.2206066119
+DN3;sNPFR;sNPF;3;this study
+l-LNv;sNPFR;sNPF;2;this study, 10.1073/pnas.2206066119
+DN1a;Pdfr;DH31;1;this study
+DN1p;Pdfr;DH31;9;this study
+DN2;Pdfr;DH31;2;this study
+DN3;Pdfr;DH31;5;this study
+LPN;Pdfr;DH31;2;this study
+LNd;Pdfr;DH31;5;this study
+l-LNv;Pdfr;DH31;4;this study
+5th-LNv;Pdfr;DH31;1;this study
+s-LNv;Pdfr;DH31;4;this study
+DN1p;sNPFR;sNPF;3;this study, 10.1073/pnas.2206066119
+LPN;sNPFR;sNPF;3;this study
