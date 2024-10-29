@@ -1,0 +1,1 @@
+These are all swc skeleton files that are required for the analysis. 
